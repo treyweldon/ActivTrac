@@ -1,5 +1,3 @@
-# Activity Tracker App
-
 ## Overview
 An activity tracker app designed for golf, surfing, and mountain biking, built to enhance the outdoor adventures I love. The app allows users to log activities, track their history, and view weather conditions at the time of their activities.
 
